@@ -1,0 +1,17 @@
+2022-06-28 18:50:54.6424|0|DEBUG|EShop.Web.Program|init main 
+2022-06-28 18:50:54.9799|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-06-28 18:50:54.9799|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-06-28 18:50:54.9918|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\DELL\source\repos\Domashna1\EShop.Web 
+2022-06-28 18:58:23.8730|0|DEBUG|EShop.Web.Program|init main 
+2022-06-28 18:58:25.3909|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-06-28 18:58:25.3963|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-06-28 18:58:25.3963|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\DELL\source\repos\Domashna1\EShop.Web 
+2022-06-28 18:58:28.6814|0|INFO|EShop.Services.Implementation.ProductService|GetAllProducts was callled. 
+2022-06-28 18:59:27.2361|0|DEBUG|EShop.Web.Program|init main 
+2022-06-28 18:59:28.2083|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-06-28 18:59:28.2083|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-06-28 18:59:28.2083|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\DELL\source\repos\Domashna1\EShop.Web 
+2022-06-28 18:59:44.6264|0|DEBUG|EShop.Web.Program|init main 
+2022-06-28 18:59:44.8962|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-06-28 18:59:44.8962|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-06-28 18:59:44.8962|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\DELL\source\repos\Domashna1\EShop.Web 

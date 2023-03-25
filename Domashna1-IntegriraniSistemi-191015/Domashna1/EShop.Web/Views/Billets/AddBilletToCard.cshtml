@@ -1,0 +1,26 @@
+﻿@model EShop.Web.Models.DTO.AddToShoppingCardDto
+@{
+    ViewData["Title"] = "Add tp shopping card";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Add Selected Billets to User Shopping Card</h1>
+<hr/>
+<div class="row">
+    <div class="col-md-4 m-auto">
+        <form asp-action="AddBilletToCard" method="post">
+            <input type="hidden" asp-for="SelectedProductId" />
+            <div class="form-group">
+                <label asp-for="SelectedProduct.MovieName"></label>
+                <input disabled asp-for="SelectedProduct.MovieName" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="Quantity"></label>
+                <input  asp-for="Quantity" class="form-control" />
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>

@@ -1,0 +1,110 @@
+C:\Users\DELL\source\repos\EShopAdminApplication\EShopAdminApplication\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\DELL\source\repos\EShopAdminApplication\EShopAdminApplication\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\DELL\source\repos\EShopAdminApplication\EShopAdminApplication\bin\Debug\netcoreapp3.1\EShopAdminApplication.exe
+C:\Users\DELL\source\repos\EShopAdminApplication\EShopAdminApplication\bin\Debug\netcoreapp3.1\EShopAdminApplication.deps.json
+C:\Users\DELL\source\repos\EShopAdminApplication\EShopAdminApplication\bin\Debug\netcoreapp3.1\EShopAdminApplication.runtimeconfig.json
+C:\Users\DELL\source\repos\EShopAdminApplication\EShopAdminApplication\bin\Debug\netcoreapp3.1\EShopAdminApplication.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\EShopAdminApplication\EShopAdminApplication\bin\Debug\netcoreapp3.1\EShopAdminApplication.dll
+C:\Users\DELL\source\repos\EShopAdminApplication\EShopAdminApplication\bin\Debug\netcoreapp3.1\EShopAdminApplication.pdb
+C:\Users\DELL\source\repos\EShopAdminApplication\EShopAdminApplication\bin\Debug\netcoreapp3.1\EShopAdminApplication.Views.dll
+C:\Users\DELL\source\repos\EShopAdminApplication\EShopAdminApplication\bin\Debug\netcoreapp3.1\EShopAdminApplication.Views.pdb
+C:\Users\DELL\source\repos\EShopAdminApplication\EShopAdminApplication\obj\Debug\netcoreapp3.1\EShopAdminApplication.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\EShopAdminApplication\EShopAdminApplication\obj\Debug\netcoreapp3.1\EShopAdminApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\EShopAdminApplication\EShopAdminApplication\obj\Debug\netcoreapp3.1\EShopAdminApplication.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\EShopAdminApplication\EShopAdminApplication\obj\Debug\netcoreapp3.1\EShopAdminApplication.AssemblyInfo.cs
+C:\Users\DELL\source\repos\EShopAdminApplication\EShopAdminApplication\obj\Debug\netcoreapp3.1\EShopAdminApplication.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\EShopAdminApplication\EShopAdminApplication\obj\Debug\netcoreapp3.1\EShopAdminApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\source\repos\EShopAdminApplication\EShopAdminApplication\obj\Debug\netcoreapp3.1\EShopAdminApplication.RazorAssemblyInfo.cache
+C:\Users\DELL\source\repos\EShopAdminApplication\EShopAdminApplication\obj\Debug\netcoreapp3.1\EShopAdminApplication.RazorAssemblyInfo.cs
+C:\Users\DELL\source\repos\EShopAdminApplication\EShopAdminApplication\obj\Debug\netcoreapp3.1\staticwebassets\EShopAdminApplication.StaticWebAssets.Manifest.cache
+C:\Users\DELL\source\repos\EShopAdminApplication\EShopAdminApplication\obj\Debug\netcoreapp3.1\EShopAdminApplication.TagHelpers.input.cache
+C:\Users\DELL\source\repos\EShopAdminApplication\EShopAdminApplication\obj\Debug\netcoreapp3.1\EShopAdminApplication.TagHelpers.output.cache
+C:\Users\DELL\source\repos\EShopAdminApplication\EShopAdminApplication\obj\Debug\netcoreapp3.1\EShopAdminApplication.RazorCoreGenerate.cache
+C:\Users\DELL\source\repos\EShopAdminApplication\EShopAdminApplication\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\DELL\source\repos\EShopAdminApplication\EShopAdminApplication\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\DELL\source\repos\EShopAdminApplication\EShopAdminApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\DELL\source\repos\EShopAdminApplication\EShopAdminApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\DELL\source\repos\EShopAdminApplication\EShopAdminApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\DELL\source\repos\EShopAdminApplication\EShopAdminApplication\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\DELL\source\repos\EShopAdminApplication\EShopAdminApplication\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\DELL\source\repos\EShopAdminApplication\EShopAdminApplication\obj\Debug\netcoreapp3.1\EShopAdminApplication.RazorTargetAssemblyInfo.cache
+C:\Users\DELL\source\repos\EShopAdminApplication\EShopAdminApplication\obj\Debug\netcoreapp3.1\EShopAdminApplication.RazorTargetAssemblyInfo.cs
+C:\Users\DELL\source\repos\EShopAdminApplication\EShopAdminApplication\obj\Debug\netcoreapp3.1\EShopAdminApplication.Views.pdb
+C:\Users\DELL\source\repos\EShopAdminApplication\EShopAdminApplication\obj\Debug\netcoreapp3.1\EShopAdminApplication.dll
+C:\Users\DELL\source\repos\EShopAdminApplication\EShopAdminApplication\obj\Debug\netcoreapp3.1\EShopAdminApplication.pdb
+C:\Users\DELL\source\repos\EShopAdminApplication\EShopAdminApplication\obj\Debug\netcoreapp3.1\EShopAdminApplication.genruntimeconfig.cache
+C:\Users\DELL\source\repos\EShopAdminApplication\EShopAdminApplication\obj\Debug\netcoreapp3.1\EShopAdminApplication.csproj.CopyComplete
+C:\Users\DELL\source\repos\EShopAdminApplication\EShopAdminApplication\obj\Debug\netcoreapp3.1\Razor\Views\Order\Index.cshtml.g.cs
+C:\Users\DELL\source\repos\EShopAdminApplication\EShopAdminApplication\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\DELL\source\repos\EShopAdminApplication\EShopAdminApplication\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\DELL\source\repos\EShopAdminApplication\EShopAdminApplication\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\DELL\source\repos\EShopAdminApplication\EShopAdminApplication\obj\Debug\netcoreapp3.1\Razor\Views\Order\Details.cshtml.g.cs
+C:\Users\DELL\source\repos\EShopAdminApplication\EShopAdminApplication\bin\Debug\netcoreapp3.1\GemBox.Document.dll
+C:\Users\DELL\source\repos\EShopAdminApplication\EShopAdminApplication\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\DELL\source\repos\EShopAdminApplication\EShopAdminApplication\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\DELL\source\repos\EShopAdminApplication\EShopAdminApplication\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\DELL\source\repos\EShopAdminApplication\EShopAdminApplication\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\GemBox.Document.dll
+C:\Users\DELL\source\repos\EShopAdminApplication\EShopAdminApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DELL\source\repos\EShopAdminApplication\EShopAdminApplication\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DELL\source\repos\EShopAdminApplication\EShopAdminApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DELL\source\repos\EShopAdminApplication\EShopAdminApplication\obj\Debug\netcoreapp3.1\Razor\Views\User\Index.cshtml.g.cs
+C:\Users\DELL\source\repos\EShopAdminApplication\EShopAdminApplication\bin\Debug\netcoreapp3.1\ExcelDataReader.dll
+C:\Users\DELL\source\repos\EShopAdminApplication\EShopAdminApplication\bin\Debug\netcoreapp3.1\ClosedXML.dll
+C:\Users\DELL\source\repos\EShopAdminApplication\EShopAdminApplication\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\DELL\source\repos\EShopAdminApplication\EShopAdminApplication\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+C:\Users\DELL\source\repos\EShopAdminApplication\EShopAdminApplication\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\DELL\Downloads\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\EShopAdminApplication\EShopAdminApplication\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\DELL\Downloads\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\EShopAdminApplication\EShopAdminApplication\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\DELL\Downloads\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\EShopAdminApplication\EShopAdminApplication\bin\Debug\netcoreapp3.1\EShopAdminApplication.exe
+C:\Users\DELL\Downloads\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\EShopAdminApplication\EShopAdminApplication\bin\Debug\netcoreapp3.1\EShopAdminApplication.deps.json
+C:\Users\DELL\Downloads\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\EShopAdminApplication\EShopAdminApplication\bin\Debug\netcoreapp3.1\EShopAdminApplication.runtimeconfig.json
+C:\Users\DELL\Downloads\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\EShopAdminApplication\EShopAdminApplication\bin\Debug\netcoreapp3.1\EShopAdminApplication.runtimeconfig.dev.json
+C:\Users\DELL\Downloads\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\EShopAdminApplication\EShopAdminApplication\bin\Debug\netcoreapp3.1\EShopAdminApplication.dll
+C:\Users\DELL\Downloads\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\EShopAdminApplication\EShopAdminApplication\bin\Debug\netcoreapp3.1\EShopAdminApplication.pdb
+C:\Users\DELL\Downloads\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\EShopAdminApplication\EShopAdminApplication\bin\Debug\netcoreapp3.1\EShopAdminApplication.Views.dll
+C:\Users\DELL\Downloads\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\EShopAdminApplication\EShopAdminApplication\bin\Debug\netcoreapp3.1\EShopAdminApplication.Views.pdb
+C:\Users\DELL\Downloads\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\EShopAdminApplication\EShopAdminApplication\bin\Debug\netcoreapp3.1\ClosedXML.dll
+C:\Users\DELL\Downloads\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\EShopAdminApplication\EShopAdminApplication\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\DELL\Downloads\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\EShopAdminApplication\EShopAdminApplication\bin\Debug\netcoreapp3.1\ExcelDataReader.dll
+C:\Users\DELL\Downloads\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\EShopAdminApplication\EShopAdminApplication\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+C:\Users\DELL\Downloads\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\EShopAdminApplication\EShopAdminApplication\bin\Debug\netcoreapp3.1\GemBox.Document.dll
+C:\Users\DELL\Downloads\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\EShopAdminApplication\EShopAdminApplication\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\DELL\Downloads\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\EShopAdminApplication\EShopAdminApplication\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\DELL\Downloads\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\EShopAdminApplication\EShopAdminApplication\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\DELL\Downloads\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\EShopAdminApplication\EShopAdminApplication\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\DELL\Downloads\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\EShopAdminApplication\EShopAdminApplication\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\DELL\Downloads\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\EShopAdminApplication\EShopAdminApplication\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\DELL\Downloads\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\EShopAdminApplication\EShopAdminApplication\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\DELL\Downloads\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\EShopAdminApplication\EShopAdminApplication\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\GemBox.Document.dll
+C:\Users\DELL\Downloads\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\EShopAdminApplication\EShopAdminApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DELL\Downloads\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\EShopAdminApplication\EShopAdminApplication\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DELL\Downloads\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\EShopAdminApplication\EShopAdminApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DELL\Downloads\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\EShopAdminApplication\EShopAdminApplication\obj\Debug\netcoreapp3.1\EShopAdminApplication.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\EShopAdminApplication\EShopAdminApplication\obj\Debug\netcoreapp3.1\EShopAdminApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Downloads\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\EShopAdminApplication\EShopAdminApplication\obj\Debug\netcoreapp3.1\EShopAdminApplication.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\EShopAdminApplication\EShopAdminApplication\obj\Debug\netcoreapp3.1\EShopAdminApplication.AssemblyInfo.cs
+C:\Users\DELL\Downloads\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\EShopAdminApplication\EShopAdminApplication\obj\Debug\netcoreapp3.1\EShopAdminApplication.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\EShopAdminApplication\EShopAdminApplication\obj\Debug\netcoreapp3.1\EShopAdminApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Downloads\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\EShopAdminApplication\EShopAdminApplication\obj\Debug\netcoreapp3.1\EShopAdminApplication.RazorAssemblyInfo.cache
+C:\Users\DELL\Downloads\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\EShopAdminApplication\EShopAdminApplication\obj\Debug\netcoreapp3.1\EShopAdminApplication.RazorAssemblyInfo.cs
+C:\Users\DELL\Downloads\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\EShopAdminApplication\EShopAdminApplication\obj\Debug\netcoreapp3.1\staticwebassets\EShopAdminApplication.StaticWebAssets.Manifest.cache
+C:\Users\DELL\Downloads\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\EShopAdminApplication\EShopAdminApplication\obj\Debug\netcoreapp3.1\EShopAdminApplication.TagHelpers.input.cache
+C:\Users\DELL\Downloads\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\EShopAdminApplication\EShopAdminApplication\obj\Debug\netcoreapp3.1\EShopAdminApplication.TagHelpers.output.cache
+C:\Users\DELL\Downloads\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\EShopAdminApplication\EShopAdminApplication\obj\Debug\netcoreapp3.1\EShopAdminApplication.RazorCoreGenerate.cache
+C:\Users\DELL\Downloads\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\EShopAdminApplication\EShopAdminApplication\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\DELL\Downloads\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\EShopAdminApplication\EShopAdminApplication\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\DELL\Downloads\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\EShopAdminApplication\EShopAdminApplication\obj\Debug\netcoreapp3.1\Razor\Views\Order\Details.cshtml.g.cs
+C:\Users\DELL\Downloads\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\EShopAdminApplication\EShopAdminApplication\obj\Debug\netcoreapp3.1\Razor\Views\Order\Index.cshtml.g.cs
+C:\Users\DELL\Downloads\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\EShopAdminApplication\EShopAdminApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\DELL\Downloads\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\EShopAdminApplication\EShopAdminApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\DELL\Downloads\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\EShopAdminApplication\EShopAdminApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\DELL\Downloads\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\EShopAdminApplication\EShopAdminApplication\obj\Debug\netcoreapp3.1\Razor\Views\User\Index.cshtml.g.cs
+C:\Users\DELL\Downloads\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\EShopAdminApplication\EShopAdminApplication\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\DELL\Downloads\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\EShopAdminApplication\EShopAdminApplication\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\DELL\Downloads\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\EShopAdminApplication\EShopAdminApplication\obj\Debug\netcoreapp3.1\EShopAdminApplication.RazorTargetAssemblyInfo.cache
+C:\Users\DELL\Downloads\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\EShopAdminApplication\EShopAdminApplication\obj\Debug\netcoreapp3.1\EShopAdminApplication.RazorTargetAssemblyInfo.cs
+C:\Users\DELL\Downloads\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\EShopAdminApplication\EShopAdminApplication\obj\Debug\netcoreapp3.1\EShopAdminApplication.Views.pdb
+C:\Users\DELL\Downloads\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\EShopAdminApplication\EShopAdminApplication\obj\Debug\netcoreapp3.1\EShopAdminApplication.csproj.CopyComplete
+C:\Users\DELL\Downloads\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\EShopAdminApplication\EShopAdminApplication\obj\Debug\netcoreapp3.1\EShopAdminApplication.dll
+C:\Users\DELL\Downloads\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\EShopAdminApplication\EShopAdminApplication\obj\Debug\netcoreapp3.1\EShopAdminApplication.pdb
+C:\Users\DELL\Downloads\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\EShopAdminApplication\EShopAdminApplication\obj\Debug\netcoreapp3.1\EShopAdminApplication.genruntimeconfig.cache

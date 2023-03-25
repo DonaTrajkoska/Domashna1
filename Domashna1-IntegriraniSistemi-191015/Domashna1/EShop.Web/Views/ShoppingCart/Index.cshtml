@@ -1,0 +1,74 @@
+﻿@using Microsoft.Extensions.Options
+@inject IOptions<EShop.Domain.StripeSettings> Stripe
+@model EShop.Web.Models.DTO.ShoppingCartDto
+
+<h1> Shopping cart info</h1>
+    <div class="container">
+        @*<div class="row m-5"><a asp-action="OrderNow" class="btn btn-success">Order now</a>
+        
+        </div>*@
+    @if (Model.TotalPrice != 0)
+    {
+        <form method="post" asp-controller="ShoppingCart" asp-action="PayOrder" >
+            <article>
+                <script src="https://checkout.stripe.com/checkout.js"
+                            class="stripe-button"
+                            data-key="@Stripe.Value.PublishableKey"
+                            data-locale="auto"
+                            data-description="EShop Application Payment"
+                            data-amount="@(Model.TotalPrice * 100)"
+                            data-label="Pay @Model.TotalPrice $ ">
+                    </script>
+            </article>
+        </form>
+  }
+    <div class="row m-4">
+        <table class="table">
+            <thead class="thead-dark">
+                <tr>
+                    <th scope="col">#</th>
+                    <th scope="col">Product Image</th>
+                    <th scope="col">Product Name</th>
+                    <th scope="col">Quantity</th>
+                    <th scope="col">ProductPrice</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (Model.BiletInShoppingCards.Count == 0)
+                {
+                    <tr>
+                        <td colspan="5">No active Products</td>
+                    </tr>
+                }
+                else
+                {
+                    @for (int i = 0; i < Model.BiletInShoppingCards.Count; i++)
+                    {
+                        var item = Model.BiletInShoppingCards[i];
+
+                        <tr>
+                            <th scope="row">@(i + 1)</th>
+                            <td><img src="@item.Bilet.MovieImage"></td>
+                            <td>@item.Bilet.MovieName</td>
+                            <td>@item.Quantity</td>
+                            <td>@(item.Bilet.BilletPrice * item.Quantity) ден.</td>
+                            <td><a asp-controller="ShoppingCart" asp-action="DeleteProductFromShoppingCart" asp-route-productId="@item.BiletId" class="btn btn-danger">Delete From ShoppingCart</a></td>
+                        </tr>
+                    }
+                }
+            </tbody>
+            <tfoot class="thead-dark">
+                <tr>
+                    <th scope="col">TotalPrice:</th>
+                    <th scope="col"></th>
+                    <th scope="col"></th>
+                    <th scope="col"></th>
+                    <th scope="col"></th>
+                    <th scope="col">@Model.TotalPrice.ToString() ден.</th>
+                </tr>
+            </tfoot>
+        </table>
+    </div>
+
+</div>

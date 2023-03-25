@@ -1,0 +1,141 @@
+2022-06-29 17:32:54.2060|0|DEBUG|EShop.Web.Program|init main 
+2022-06-29 17:32:59.1039|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-06-29 17:32:59.1084|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-06-29 17:32:59.1084|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\DELL\source\repos\Domashna1\EShop.Web 
+2022-06-29 17:33:02.7834|0|INFO|EShop.Services.Implementation.ProductService|GetAllProducts was callled. 
+2022-06-29 17:33:20.2064|1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. System.NullReferenceException: Object reference not set to an instance of an object.
+   at EShop.Services.Implementation.ShoppingCartService.getShoppingCartInfo(String userId) in C:\Users\DELL\source\repos\Domashna1\EShop.Services\Implementation\ShoppingCartService.cs:line 49
+   at EShop.Web.Controllers.ShoppingCartController.Index() in C:\Users\DELL\source\repos\Domashna1\EShop.Web\Controllers\ShoppingCartController.cs:line 26
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.MigrationsEndPointMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.DatabaseErrorPageMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.DatabaseErrorPageMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2022-06-29 17:48:28.4913|0|DEBUG|EShop.Web.Program|init main 
+2022-06-29 17:48:29.6180|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-06-29 17:48:29.6207|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-06-29 17:48:29.6207|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\DELL\source\repos\Domashna1\EShop.Web 
+2022-06-29 17:51:51.2915|0|DEBUG|EShop.Web.Program|init main 
+2022-06-29 17:51:52.5868|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-06-29 17:51:52.5893|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-06-29 17:51:52.5893|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\DELL\source\repos\Domashna1\EShop.Web 
+2022-06-29 17:58:31.7230|0|DEBUG|EShop.Web.Program|init main 
+2022-06-29 17:58:32.7252|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-06-29 17:58:32.7252|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-06-29 17:58:32.7324|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\DELL\source\repos\Domashna1\EShop.Web 
+2022-06-29 18:03:40.6067|0|DEBUG|EShop.Web.Program|init main 
+2022-06-29 18:03:41.9344|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-06-29 18:03:41.9344|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-06-29 18:03:41.9344|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\DELL\source\repos\Domashna1\EShop.Web 
+2022-06-29 18:03:52.7548|1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. System.InvalidOperationException: Unable to resolve service for type 'EShop.Services.Interface.IOrderService' while attempting to activate 'EShop.Web.Controllers.Api.AdminController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.MigrationsEndPointMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.DatabaseErrorPageMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.DatabaseErrorPageMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2022-06-29 18:05:19.0986|0|DEBUG|EShop.Web.Program|init main 
+2022-06-29 18:05:20.1828|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-06-29 18:05:20.1828|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-06-29 18:05:20.1988|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\DELL\source\repos\Domashna1\EShop.Web 
+2022-06-29 18:09:11.9835|0|DEBUG|EShop.Web.Program|init main 
+2022-06-29 18:09:13.0978|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-06-29 18:09:13.0978|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-06-29 18:09:13.1060|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\DELL\source\repos\Domashna1\EShop.Web 
+2022-06-29 18:09:15.8085|1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. System.Text.Json.JsonException: A possible object cycle was detected which is not supported. This can either be due to a cycle or if the object depth is larger than the maximum allowed depth of 32.
+   at System.Text.Json.ThrowHelper.ThrowInvalidOperationException_SerializerCycleDetected(Int32 maxDepth)
+   at System.Text.Json.JsonSerializer.Write(Utf8JsonWriter writer, Int32 originalWriterDepth, Int32 flushThreshold, JsonSerializerOptions options, WriteStack& state)
+   at System.Text.Json.JsonSerializer.WriteAsyncCore(Stream utf8Json, Object value, Type inputType, JsonSerializerOptions options, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.MigrationsEndPointMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.DatabaseErrorPageMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.DatabaseErrorPageMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2022-06-29 18:15:24.2412|0|DEBUG|EShop.Web.Program|init main 
+2022-06-29 18:15:25.6075|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-06-29 18:15:25.6075|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-06-29 18:15:25.6075|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\DELL\source\repos\Domashna1\EShop.Web 
+2022-06-29 18:16:39.2450|0|DEBUG|EShop.Web.Program|init main 
+2022-06-29 18:16:40.4973|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-06-29 18:16:40.4973|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-06-29 18:16:40.4973|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\DELL\source\repos\Domashna1\EShop.Web 
+2022-06-29 18:36:51.6044|0|DEBUG|EShop.Web.Program|init main 
+2022-06-29 18:36:52.6739|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-06-29 18:36:52.6739|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-06-29 18:36:52.6868|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\DELL\source\repos\Domashna1\EShop.Web 
+2022-06-29 18:49:24.0391|0|DEBUG|EShop.Web.Program|init main 
+2022-06-29 18:49:25.0454|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-06-29 18:49:25.0454|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-06-29 18:49:25.0454|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\DELL\source\repos\Domashna1\EShop.Web 
+2022-06-29 19:00:40.0413|0|DEBUG|EShop.Web.Program|init main 
+2022-06-29 19:00:40.9934|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-06-29 19:00:40.9954|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-06-29 19:00:40.9954|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\DELL\source\repos\Domashna1\EShop.Web 
+2022-06-29 19:22:40.4030|0|DEBUG|EShop.Web.Program|init main 
+2022-06-29 19:22:45.2538|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-06-29 19:22:45.2538|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-06-29 19:22:45.2659|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\DELL\source\repos\Domashna1\EShop.Web 
+2022-06-29 19:23:13.0219|0|DEBUG|EShop.Web.Program|init main 
+2022-06-29 19:23:14.1935|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-06-29 19:23:14.1935|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-06-29 19:23:14.2022|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\DELL\source\repos\Domashna1\EShop.Web 
+2022-06-29 19:29:43.7576|0|DEBUG|EShop.Web.Program|init main 
+2022-06-29 19:29:44.9476|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-06-29 19:29:44.9499|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-06-29 19:29:44.9499|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\DELL\source\repos\Domashna1\EShop.Web 
+2022-06-29 20:06:46.8556|0|DEBUG|EShop.Web.Program|init main 
+2022-06-29 20:06:47.8466|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-06-29 20:06:47.8466|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-06-29 20:06:47.8466|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\DELL\source\repos\Domashna1\EShop.Web 
+2022-06-29 20:10:51.0733|0|DEBUG|EShop.Web.Program|init main 
+2022-06-29 20:10:52.2429|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-06-29 20:10:52.2469|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-06-29 20:10:52.2469|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\DELL\source\repos\Domashna1\EShop.Web 

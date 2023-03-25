@@ -1,0 +1,512 @@
+2022-07-01 11:52:06.5760|0|DEBUG|EShop.Web.Program|init main 
+2022-07-01 11:52:11.1321|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-07-01 11:52:11.1321|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-07-01 11:52:11.1468|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\DELL\source\repos\Domashna1\EShop.Web 
+2022-07-01 11:52:35.1449|1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. System.NullReferenceException: Object reference not set to an instance of an object.
+   at EShop.Services.Implementation.ShoppingCartService.getShoppingCartInfo(String userId) in C:\Users\DELL\source\repos\Domashna1\EShop.Services\Implementation\ShoppingCartService.cs:line 49
+   at EShop.Web.Controllers.ShoppingCartController.Index() in C:\Users\DELL\source\repos\Domashna1\EShop.Web\Controllers\ShoppingCartController.cs:line 26
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.MigrationsEndPointMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.DatabaseErrorPageMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.DatabaseErrorPageMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2022-07-01 11:52:54.5339|0|INFO|EShop.Services.Implementation.ProductService|GetAllProducts was callled. 
+2022-07-01 11:55:33.8714|0|DEBUG|EShop.Web.Program|init main 
+2022-07-01 11:55:34.8495|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-07-01 11:55:34.8495|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-07-01 11:55:34.8495|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\DELL\source\repos\Domashna1\EShop.Web 
+2022-07-01 12:04:17.4469|0|DEBUG|EShop.Web.Program|init main 
+2022-07-01 12:04:18.8627|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-07-01 12:04:18.8661|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-07-01 12:04:18.8661|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\DELL\source\repos\Domashna1\EShop.Web 
+2022-07-01 12:12:29.6918|0|DEBUG|EShop.Web.Program|init main 
+2022-07-01 12:12:30.7178|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-07-01 12:12:30.7178|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-07-01 12:12:30.7244|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\DELL\source\repos\Domashna1\EShop.Web 
+2022-07-01 12:24:20.0822|0|DEBUG|EShop.Web.Program|init main 
+2022-07-01 12:24:21.4496|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-07-01 12:24:21.4496|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-07-01 12:24:21.4496|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\DELL\source\repos\Domashna1\EShop.Web 
+2022-07-01 12:24:27.2079|0|INFO|EShop.Services.Implementation.ProductService|GetAllProducts was callled. 
+2022-07-01 12:27:08.0670|0|DEBUG|EShop.Web.Program|init main 
+2022-07-01 12:27:09.1336|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-07-01 12:27:09.1336|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-07-01 12:27:09.1336|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\DELL\source\repos\Domashna1\EShop.Web 
+2022-07-01 12:27:56.2338|0|DEBUG|EShop.Web.Program|init main 
+2022-07-01 12:27:57.2100|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-07-01 12:27:57.2100|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-07-01 12:27:57.2100|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\DELL\source\repos\Domashna1\EShop.Web 
+2022-07-01 12:37:07.9821|0|DEBUG|EShop.Web.Program|init main 
+2022-07-01 12:37:08.9914|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-07-01 12:37:08.9914|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-07-01 12:37:08.9914|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\DELL\source\repos\Domashna1\EShop.Web 
+2022-07-01 13:07:18.9443|0|DEBUG|EShop.Web.Program|init main 
+2022-07-01 13:07:19.9898|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-07-01 13:07:19.9898|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-07-01 13:07:19.9898|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\DELL\source\repos\Domashna1\EShop.Web 
+2022-07-01 14:03:27.8016|0|DEBUG|EShop.Web.Program|init main 
+2022-07-01 14:03:30.1887|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-07-01 14:03:30.1953|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-07-01 14:03:30.2104|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\DELL\source\repos\Domashna1\EShop.Web 
+2022-07-01 14:17:11.2764|0|DEBUG|EShop.Web.Program|init main 
+2022-07-01 14:17:12.5917|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-07-01 14:17:12.5917|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-07-01 14:17:12.5998|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\DELL\source\repos\Domashna1\EShop.Web 
+2022-07-01 14:17:42.4644|0|INFO|EShop.Services.Implementation.ProductService|GetAllProducts was callled. 
+2022-07-01 14:18:00.2949|0|INFO|EShop.Services.Implementation.ProductService|GetAllProducts was callled. 
+2022-07-01 14:18:10.6817|0|INFO|EShop.Services.Implementation.ProductService|GetAllProducts was callled. 
+2022-07-01 14:20:36.5932|0|DEBUG|EShop.Web.Program|init main 
+2022-07-01 14:20:37.6204|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-07-01 14:20:37.6204|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-07-01 14:20:37.6204|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\DELL\source\repos\Domashna1\EShop.Web 
+2022-07-01 14:20:56.7576|0|INFO|EShop.Services.Implementation.ProductService|GetAllProducts was callled. 
+2022-07-01 14:21:02.9365|0|INFO|EShop.Services.Implementation.ProductService|GetAllProducts was callled. 
+2022-07-01 14:21:06.9899|0|INFO|EShop.Services.Implementation.ProductService|Product was successfully added into ShoppingCard. 
+2022-07-01 14:21:06.9899|0|INFO|EShop.Services.Implementation.ProductService|GetAllProducts was callled. 
+2022-07-01 14:21:11.1295|0|INFO|EShop.Services.Implementation.ProductService|Product was successfully added into ShoppingCard. 
+2022-07-01 14:21:11.1295|0|INFO|EShop.Services.Implementation.ProductService|GetAllProducts was callled. 
+2022-07-01 14:30:07.1778|0|DEBUG|EShop.Web.Program|init main 
+2022-07-01 14:30:08.1541|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-07-01 14:30:08.1541|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-07-01 14:30:08.1639|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\DELL\source\repos\Domashna1\EShop.Web 
+2022-07-01 14:33:32.9306|0|DEBUG|EShop.Web.Program|init main 
+2022-07-01 14:33:33.8795|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-07-01 14:33:33.8814|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-07-01 14:33:33.8814|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\DELL\source\repos\Domashna1\EShop.Web 
+2022-07-01 14:34:52.7219|0|DEBUG|EShop.Web.Program|init main 
+2022-07-01 14:34:53.6686|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-07-01 14:34:53.6686|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-07-01 14:34:53.6686|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\DELL\source\repos\Domashna1\EShop.Web 
+2022-07-01 14:50:42.3174|0|DEBUG|EShop.Web.Program|init main 
+2022-07-01 14:50:43.3646|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-07-01 14:50:43.3646|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-07-01 14:50:43.3646|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\DELL\source\repos\Domashna1\EShop.Web 
+2022-07-01 15:18:57.5104|0|DEBUG|EShop.Web.Program|init main 
+2022-07-01 15:18:58.5241|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-07-01 15:18:58.5241|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-07-01 15:18:58.5396|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\DELL\source\repos\Domashna1\EShop.Web 
+2022-07-01 16:13:45.6012|0|DEBUG|EShop.Web.Program|init main 
+2022-07-01 16:13:46.8717|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-07-01 16:13:46.8717|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-07-01 16:13:46.8808|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\DELL\source\repos\Domashna1\EShop.Web 
+2022-07-01 16:13:58.2313|0|INFO|EShop.Services.Implementation.ProductService|GetAllProducts was callled. 
+2022-07-01 16:14:02.0560|0|INFO|EShop.Services.Implementation.ProductService|GetAllProducts was callled. 
+2022-07-01 16:14:04.1768|0|INFO|EShop.Services.Implementation.ProductService|GetAllProducts was callled. 
+2022-07-01 16:23:08.7480|0|DEBUG|EShop.Web.Program|init main 
+2022-07-01 16:23:09.9098|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-07-01 16:23:09.9121|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-07-01 16:23:09.9121|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\DELL\source\repos\Domashna1\EShop.Web 
+2022-07-01 16:23:18.6305|0|INFO|EShop.Services.Implementation.ProductService|GetAllProducts was callled. 
+2022-07-01 16:23:21.9172|0|INFO|EShop.Services.Implementation.ProductService|Product was successfully added into ShoppingCard. 
+2022-07-01 16:23:21.9172|0|INFO|EShop.Services.Implementation.ProductService|GetAllProducts was callled. 
+2022-07-01 16:23:25.7998|0|INFO|EShop.Services.Implementation.ProductService|Product was successfully added into ShoppingCard. 
+2022-07-01 16:23:25.8101|0|INFO|EShop.Services.Implementation.ProductService|GetAllProducts was callled. 
+2022-07-01 16:26:08.0059|0|DEBUG|EShop.Web.Program|init main 
+2022-07-01 16:26:09.1014|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-07-01 16:26:09.1014|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-07-01 16:26:09.1014|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\DELL\source\repos\Domashna1\EShop.Web 
+2022-07-01 16:26:11.4483|0|INFO|EShop.Services.Implementation.ProductService|GetAllProducts was callled. 
+2022-07-01 16:26:15.8386|0|INFO|EShop.Services.Implementation.ProductService|Product was successfully added into ShoppingCard. 
+2022-07-01 16:26:15.8386|0|INFO|EShop.Services.Implementation.ProductService|GetAllProducts was callled. 
+2022-07-01 16:26:20.1797|0|INFO|EShop.Services.Implementation.ProductService|Product was successfully added into ShoppingCard. 
+2022-07-01 16:26:20.1932|0|INFO|EShop.Services.Implementation.ProductService|GetAllProducts was callled. 
+2022-07-01 16:26:53.2913|0|DEBUG|EShop.Web.Program|init main 
+2022-07-01 16:26:54.2384|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-07-01 16:26:54.2384|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-07-01 16:26:54.2384|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\DELL\source\repos\Domashna1\EShop.Web 
+2022-07-01 16:27:25.1999|0|DEBUG|EShop.Web.Program|init main 
+2022-07-01 16:27:26.1296|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-07-01 16:27:26.1296|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-07-01 16:27:26.1296|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\DELL\source\repos\Domashna1\EShop.Web 
+2022-07-01 16:27:30.1243|0|INFO|EShop.Services.Implementation.ProductService|GetAllProducts was callled. 
+2022-07-01 16:27:33.7102|0|INFO|EShop.Services.Implementation.ProductService|Product was successfully added into ShoppingCard. 
+2022-07-01 16:27:33.7102|0|INFO|EShop.Services.Implementation.ProductService|GetAllProducts was callled. 
+2022-07-01 16:51:02.7291|0|DEBUG|EShop.Web.Program|init main 
+2022-07-01 16:51:04.0423|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-07-01 16:51:04.0423|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-07-01 16:51:04.0423|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\DELL\source\repos\Domashna1\EShop.Web 
+2022-07-01 17:10:13.2011|0|DEBUG|EShop.Web.Program|init main 
+2022-07-01 17:10:15.6740|0|ERROR|EShop.Web.Program|Stopped program because of exception MimeKit.ParseException: Invalid addr-spec token at offset 0
+   at MimeKit.InternetAddress.TryParseAddrspec(Byte[] text, Int32& index, Int32 endIndex, Byte[] sentinels, Boolean throwOnError, String& addrspec, Int32& at)
+   at MimeKit.MailboxAddress.set_Address(String value)
+   at MimeKit.MailboxAddress..ctor(Encoding encoding, String name, String address)
+   at MimeKit.MailboxAddress..ctor(String name, String address)
+   at EShop.Services.Implementation.EmailService.SendEmailAsync(List`1 allMails) in C:\Users\DELL\source\repos\Domashna1\EShop.Services\Implementation\EmailService.cs:line 28
+   at EShop.Services.Implementation.BackgroundEmailSender.DoWork() in C:\Users\DELL\source\repos\Domashna1\EShop.Services\Implementation\BackgroundEmailSender.cs:line 24
+   at EShop.Services.ConsumeScopedHostedService.DoWork() in C:\Users\DELL\source\repos\Domashna1\EShop.Services\ConsumeScopedHostedService.cs:line 32
+   at EShop.Services.ConsumeScopedHostedService.StartAsync(CancellationToken cancellationToken) in C:\Users\DELL\source\repos\Domashna1\EShop.Services\ConsumeScopedHostedService.cs:line 24
+   at Microsoft.Extensions.Hosting.Internal.Host.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(IHost host)
+   at EShop.Web.Program.Main(String[] args) in C:\Users\DELL\source\repos\Domashna1\EShop.Web\Program.cs:line 23
+2022-07-01 17:11:09.7116|0|DEBUG|EShop.Web.Program|init main 
+2022-07-01 17:11:37.8509|0|ERROR|EShop.Web.Program|Stopped program because of exception MimeKit.ParseException: Invalid addr-spec token at offset 0
+   at MimeKit.InternetAddress.TryParseAddrspec(Byte[] text, Int32& index, Int32 endIndex, Byte[] sentinels, Boolean throwOnError, String& addrspec, Int32& at)
+   at MimeKit.MailboxAddress.set_Address(String value)
+   at MimeKit.MailboxAddress..ctor(Encoding encoding, String name, String address)
+   at MimeKit.MailboxAddress..ctor(String name, String address)
+   at EShop.Services.Implementation.EmailService.SendEmailAsync(List`1 allMails) in C:\Users\DELL\source\repos\Domashna1\EShop.Services\Implementation\EmailService.cs:line 28
+   at EShop.Services.Implementation.BackgroundEmailSender.DoWork() in C:\Users\DELL\source\repos\Domashna1\EShop.Services\Implementation\BackgroundEmailSender.cs:line 24
+   at EShop.Services.ConsumeScopedHostedService.DoWork() in C:\Users\DELL\source\repos\Domashna1\EShop.Services\ConsumeScopedHostedService.cs:line 32
+   at EShop.Services.ConsumeScopedHostedService.StartAsync(CancellationToken cancellationToken) in C:\Users\DELL\source\repos\Domashna1\EShop.Services\ConsumeScopedHostedService.cs:line 24
+   at Microsoft.Extensions.Hosting.Internal.Host.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(IHost host)
+   at EShop.Web.Program.Main(String[] args) in C:\Users\DELL\source\repos\Domashna1\EShop.Web\Program.cs:line 23
+2022-07-01 17:15:11.5162|0|DEBUG|EShop.Web.Program|init main 
+2022-07-01 17:15:13.6230|0|ERROR|EShop.Web.Program|Stopped program because of exception MimeKit.ParseException: Invalid addr-spec token at offset 0
+   at MimeKit.InternetAddress.TryParseAddrspec(Byte[] text, Int32& index, Int32 endIndex, Byte[] sentinels, Boolean throwOnError, String& addrspec, Int32& at)
+   at MimeKit.MailboxAddress.set_Address(String value)
+   at MimeKit.MailboxAddress..ctor(Encoding encoding, String name, String address)
+   at MimeKit.MailboxAddress..ctor(String name, String address)
+   at EShop.Services.Implementation.EmailService.SendEmailAsync(List`1 allMails) in C:\Users\DELL\source\repos\Domashna1\EShop.Services\Implementation\EmailService.cs:line 28
+   at EShop.Services.Implementation.BackgroundEmailSender.DoWork() in C:\Users\DELL\source\repos\Domashna1\EShop.Services\Implementation\BackgroundEmailSender.cs:line 24
+   at EShop.Services.ConsumeScopedHostedService.DoWork() in C:\Users\DELL\source\repos\Domashna1\EShop.Services\ConsumeScopedHostedService.cs:line 32
+   at EShop.Services.ConsumeScopedHostedService.StartAsync(CancellationToken cancellationToken) in C:\Users\DELL\source\repos\Domashna1\EShop.Services\ConsumeScopedHostedService.cs:line 24
+   at Microsoft.Extensions.Hosting.Internal.Host.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(IHost host)
+   at EShop.Web.Program.Main(String[] args) in C:\Users\DELL\source\repos\Domashna1\EShop.Web\Program.cs:line 23
+2022-07-01 17:16:57.9205|0|DEBUG|EShop.Web.Program|init main 
+2022-07-01 17:17:01.9927|0|ERROR|EShop.Web.Program|Stopped program because of exception MailKit.Security.AuthenticationException: 535: 5.7.8 Username and Password not accepted. Learn more at
+5.7.8  https://support.google.com/mail/?p=BadCredentials g26-20020a1709067c5a00b006f3ef214ddesm10635913ejp.68 - gsmtp
+ ---> MailKit.Net.Smtp.SmtpCommandException: 5.7.8 Username and Password not accepted. Learn more at
+5.7.8  https://support.google.com/mail/?p=BadCredentials g26-20020a1709067c5a00b006f3ef214ddesm10635913ejp.68 - gsmtp
+   --- End of inner exception stack trace ---
+   at MailKit.Net.Smtp.SmtpClient.AuthenticateAsync(Encoding encoding, ICredentials credentials, Boolean doAsync, CancellationToken cancellationToken)
+   at EShop.Services.Implementation.EmailService.SendEmailAsync(List`1 allMails) in C:\Users\DELL\source\repos\Domashna1\EShop.Services\Implementation\EmailService.cs:line 53
+   at EShop.Services.Implementation.BackgroundEmailSender.DoWork() in C:\Users\DELL\source\repos\Domashna1\EShop.Services\Implementation\BackgroundEmailSender.cs:line 24
+   at EShop.Services.ConsumeScopedHostedService.DoWork() in C:\Users\DELL\source\repos\Domashna1\EShop.Services\ConsumeScopedHostedService.cs:line 32
+   at EShop.Services.ConsumeScopedHostedService.StartAsync(CancellationToken cancellationToken) in C:\Users\DELL\source\repos\Domashna1\EShop.Services\ConsumeScopedHostedService.cs:line 24
+   at Microsoft.Extensions.Hosting.Internal.Host.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(IHost host)
+   at EShop.Web.Program.Main(String[] args) in C:\Users\DELL\source\repos\Domashna1\EShop.Web\Program.cs:line 23
+2022-07-01 17:18:50.2212|0|DEBUG|EShop.Web.Program|init main 
+2022-07-01 17:18:53.6283|0|ERROR|EShop.Web.Program|Stopped program because of exception MailKit.Security.AuthenticationException: 534: 5.7.9 Application-specific password required. Learn more at
+5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor p4-20020a056402154400b0042dcac2afc6sm15235276edx.72 - gsmtp
+ ---> MailKit.Net.Smtp.SmtpCommandException: 5.7.9 Application-specific password required. Learn more at
+5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor p4-20020a056402154400b0042dcac2afc6sm15235276edx.72 - gsmtp
+   --- End of inner exception stack trace ---
+   at MailKit.Net.Smtp.SmtpClient.AuthenticateAsync(Encoding encoding, ICredentials credentials, Boolean doAsync, CancellationToken cancellationToken)
+   at EShop.Services.Implementation.EmailService.SendEmailAsync(List`1 allMails) in C:\Users\DELL\source\repos\Domashna1\EShop.Services\Implementation\EmailService.cs:line 53
+   at EShop.Services.Implementation.BackgroundEmailSender.DoWork() in C:\Users\DELL\source\repos\Domashna1\EShop.Services\Implementation\BackgroundEmailSender.cs:line 24
+   at EShop.Services.ConsumeScopedHostedService.DoWork() in C:\Users\DELL\source\repos\Domashna1\EShop.Services\ConsumeScopedHostedService.cs:line 32
+   at EShop.Services.ConsumeScopedHostedService.StartAsync(CancellationToken cancellationToken) in C:\Users\DELL\source\repos\Domashna1\EShop.Services\ConsumeScopedHostedService.cs:line 24
+   at Microsoft.Extensions.Hosting.Internal.Host.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(IHost host)
+   at EShop.Web.Program.Main(String[] args) in C:\Users\DELL\source\repos\Domashna1\EShop.Web\Program.cs:line 23
+2022-07-01 17:28:17.0247|0|DEBUG|EShop.Web.Program|init main 
+2022-07-01 17:28:20.4988|0|ERROR|EShop.Web.Program|Stopped program because of exception MailKit.Security.AuthenticationException: 534: 5.7.9 Application-specific password required. Learn more at
+5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor x2-20020a05640225c200b00435651c4a01sm15402767edb.56 - gsmtp
+ ---> MailKit.Net.Smtp.SmtpCommandException: 5.7.9 Application-specific password required. Learn more at
+5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor x2-20020a05640225c200b00435651c4a01sm15402767edb.56 - gsmtp
+   --- End of inner exception stack trace ---
+   at MailKit.Net.Smtp.SmtpClient.AuthenticateAsync(Encoding encoding, ICredentials credentials, Boolean doAsync, CancellationToken cancellationToken)
+   at EShop.Services.Implementation.EmailService.SendEmailAsync(List`1 allMails) in C:\Users\DELL\source\repos\Domashna1\EShop.Services\Implementation\EmailService.cs:line 53
+   at EShop.Services.Implementation.BackgroundEmailSender.DoWork() in C:\Users\DELL\source\repos\Domashna1\EShop.Services\Implementation\BackgroundEmailSender.cs:line 24
+   at EShop.Services.ConsumeScopedHostedService.DoWork() in C:\Users\DELL\source\repos\Domashna1\EShop.Services\ConsumeScopedHostedService.cs:line 32
+   at EShop.Services.ConsumeScopedHostedService.StartAsync(CancellationToken cancellationToken) in C:\Users\DELL\source\repos\Domashna1\EShop.Services\ConsumeScopedHostedService.cs:line 24
+   at Microsoft.Extensions.Hosting.Internal.Host.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(IHost host)
+   at EShop.Web.Program.Main(String[] args) in C:\Users\DELL\source\repos\Domashna1\EShop.Web\Program.cs:line 23
+2022-07-01 17:29:44.0518|0|DEBUG|EShop.Web.Program|init main 
+2022-07-01 17:29:47.4813|0|ERROR|EShop.Web.Program|Stopped program because of exception MailKit.Security.AuthenticationException: 535: 5.7.8 Username and Password not accepted. Learn more at
+5.7.8  https://support.google.com/mail/?p=BadCredentials f3-20020a170906138300b0072124df085bsm10571115ejc.15 - gsmtp
+ ---> MailKit.Net.Smtp.SmtpCommandException: 5.7.8 Username and Password not accepted. Learn more at
+5.7.8  https://support.google.com/mail/?p=BadCredentials f3-20020a170906138300b0072124df085bsm10571115ejc.15 - gsmtp
+   --- End of inner exception stack trace ---
+   at MailKit.Net.Smtp.SmtpClient.AuthenticateAsync(Encoding encoding, ICredentials credentials, Boolean doAsync, CancellationToken cancellationToken)
+   at EShop.Services.Implementation.EmailService.SendEmailAsync(List`1 allMails) in C:\Users\DELL\source\repos\Domashna1\EShop.Services\Implementation\EmailService.cs:line 53
+   at EShop.Services.Implementation.BackgroundEmailSender.DoWork() in C:\Users\DELL\source\repos\Domashna1\EShop.Services\Implementation\BackgroundEmailSender.cs:line 24
+   at EShop.Services.ConsumeScopedHostedService.DoWork() in C:\Users\DELL\source\repos\Domashna1\EShop.Services\ConsumeScopedHostedService.cs:line 32
+   at EShop.Services.ConsumeScopedHostedService.StartAsync(CancellationToken cancellationToken) in C:\Users\DELL\source\repos\Domashna1\EShop.Services\ConsumeScopedHostedService.cs:line 24
+   at Microsoft.Extensions.Hosting.Internal.Host.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(IHost host)
+   at EShop.Web.Program.Main(String[] args) in C:\Users\DELL\source\repos\Domashna1\EShop.Web\Program.cs:line 23
+2022-07-01 17:30:30.3453|0|DEBUG|EShop.Web.Program|init main 
+2022-07-01 17:30:34.4100|0|ERROR|EShop.Web.Program|Stopped program because of exception MailKit.Security.AuthenticationException: 535: 5.7.8 Username and Password not accepted. Learn more at
+5.7.8  https://support.google.com/mail/?p=BadCredentials ov24-20020a170906fc1800b006f3ef214d9fsm10516832ejb.5 - gsmtp
+ ---> MailKit.Net.Smtp.SmtpCommandException: 5.7.8 Username and Password not accepted. Learn more at
+5.7.8  https://support.google.com/mail/?p=BadCredentials ov24-20020a170906fc1800b006f3ef214d9fsm10516832ejb.5 - gsmtp
+   --- End of inner exception stack trace ---
+   at MailKit.Net.Smtp.SmtpClient.AuthenticateAsync(Encoding encoding, ICredentials credentials, Boolean doAsync, CancellationToken cancellationToken)
+   at EShop.Services.Implementation.EmailService.SendEmailAsync(List`1 allMails) in C:\Users\DELL\source\repos\Domashna1\EShop.Services\Implementation\EmailService.cs:line 53
+   at EShop.Services.Implementation.BackgroundEmailSender.DoWork() in C:\Users\DELL\source\repos\Domashna1\EShop.Services\Implementation\BackgroundEmailSender.cs:line 24
+   at EShop.Services.ConsumeScopedHostedService.DoWork() in C:\Users\DELL\source\repos\Domashna1\EShop.Services\ConsumeScopedHostedService.cs:line 32
+   at EShop.Services.ConsumeScopedHostedService.StartAsync(CancellationToken cancellationToken) in C:\Users\DELL\source\repos\Domashna1\EShop.Services\ConsumeScopedHostedService.cs:line 24
+   at Microsoft.Extensions.Hosting.Internal.Host.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(IHost host)
+   at EShop.Web.Program.Main(String[] args) in C:\Users\DELL\source\repos\Domashna1\EShop.Web\Program.cs:line 23
+2022-07-01 17:32:04.7331|0|DEBUG|EShop.Web.Program|init main 
+2022-07-01 17:32:08.1206|0|ERROR|EShop.Web.Program|Stopped program because of exception MailKit.Security.AuthenticationException: 535: 5.7.8 Username and Password not accepted. Learn more at
+5.7.8  https://support.google.com/mail/?p=BadCredentials f7-20020a170906048700b00722e5e54fc2sm10686474eja.12 - gsmtp
+ ---> MailKit.Net.Smtp.SmtpCommandException: 5.7.8 Username and Password not accepted. Learn more at
+5.7.8  https://support.google.com/mail/?p=BadCredentials f7-20020a170906048700b00722e5e54fc2sm10686474eja.12 - gsmtp
+   --- End of inner exception stack trace ---
+   at MailKit.Net.Smtp.SmtpClient.AuthenticateAsync(Encoding encoding, ICredentials credentials, Boolean doAsync, CancellationToken cancellationToken)
+   at EShop.Services.Implementation.EmailService.SendEmailAsync(List`1 allMails) in C:\Users\DELL\source\repos\Domashna1\EShop.Services\Implementation\EmailService.cs:line 53
+   at EShop.Services.Implementation.BackgroundEmailSender.DoWork() in C:\Users\DELL\source\repos\Domashna1\EShop.Services\Implementation\BackgroundEmailSender.cs:line 24
+   at EShop.Services.ConsumeScopedHostedService.DoWork() in C:\Users\DELL\source\repos\Domashna1\EShop.Services\ConsumeScopedHostedService.cs:line 32
+   at EShop.Services.ConsumeScopedHostedService.StartAsync(CancellationToken cancellationToken) in C:\Users\DELL\source\repos\Domashna1\EShop.Services\ConsumeScopedHostedService.cs:line 24
+   at Microsoft.Extensions.Hosting.Internal.Host.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(IHost host)
+   at EShop.Web.Program.Main(String[] args) in C:\Users\DELL\source\repos\Domashna1\EShop.Web\Program.cs:line 23
+2022-07-01 17:48:51.4813|0|DEBUG|EShop.Web.Program|init main 
+2022-07-01 17:48:55.2664|0|ERROR|EShop.Web.Program|Stopped program because of exception MailKit.Security.AuthenticationException: 535: 5.7.8 Username and Password not accepted. Learn more at
+5.7.8  https://support.google.com/mail/?p=BadCredentials e16-20020a5d5310000000b0021a3c94acd9sm122041wrv.107 - gsmtp
+ ---> MailKit.Net.Smtp.SmtpCommandException: 5.7.8 Username and Password not accepted. Learn more at
+5.7.8  https://support.google.com/mail/?p=BadCredentials e16-20020a5d5310000000b0021a3c94acd9sm122041wrv.107 - gsmtp
+   --- End of inner exception stack trace ---
+   at MailKit.Net.Smtp.SmtpClient.AuthenticateAsync(Encoding encoding, ICredentials credentials, Boolean doAsync, CancellationToken cancellationToken)
+   at EShop.Services.Implementation.EmailService.SendEmailAsync(List`1 allMails) in C:\Users\DELL\source\repos\Domashna1\EShop.Services\Implementation\EmailService.cs:line 53
+   at EShop.Services.Implementation.BackgroundEmailSender.DoWork() in C:\Users\DELL\source\repos\Domashna1\EShop.Services\Implementation\BackgroundEmailSender.cs:line 24
+   at EShop.Services.ConsumeScopedHostedService.DoWork() in C:\Users\DELL\source\repos\Domashna1\EShop.Services\ConsumeScopedHostedService.cs:line 32
+   at EShop.Services.ConsumeScopedHostedService.StartAsync(CancellationToken cancellationToken) in C:\Users\DELL\source\repos\Domashna1\EShop.Services\ConsumeScopedHostedService.cs:line 24
+   at Microsoft.Extensions.Hosting.Internal.Host.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(IHost host)
+   at EShop.Web.Program.Main(String[] args) in C:\Users\DELL\source\repos\Domashna1\EShop.Web\Program.cs:line 23
+2022-07-01 17:51:30.8310|0|DEBUG|EShop.Web.Program|init main 
+2022-07-01 17:51:34.6727|0|ERROR|EShop.Web.Program|Stopped program because of exception MailKit.Security.AuthenticationException: 535: 5.7.8 Username and Password not accepted. Learn more at
+5.7.8  https://support.google.com/mail/?p=BadCredentials i25-20020a056402055900b00435681476c7sm15325773edx.10 - gsmtp
+ ---> MailKit.Net.Smtp.SmtpCommandException: 5.7.8 Username and Password not accepted. Learn more at
+5.7.8  https://support.google.com/mail/?p=BadCredentials i25-20020a056402055900b00435681476c7sm15325773edx.10 - gsmtp
+   --- End of inner exception stack trace ---
+   at MailKit.Net.Smtp.SmtpClient.AuthenticateAsync(Encoding encoding, ICredentials credentials, Boolean doAsync, CancellationToken cancellationToken)
+   at EShop.Services.Implementation.EmailService.SendEmailAsync(List`1 allMails) in C:\Users\DELL\source\repos\Domashna1\EShop.Services\Implementation\EmailService.cs:line 53
+   at EShop.Services.Implementation.BackgroundEmailSender.DoWork() in C:\Users\DELL\source\repos\Domashna1\EShop.Services\Implementation\BackgroundEmailSender.cs:line 24
+   at EShop.Services.ConsumeScopedHostedService.DoWork() in C:\Users\DELL\source\repos\Domashna1\EShop.Services\ConsumeScopedHostedService.cs:line 32
+   at EShop.Services.ConsumeScopedHostedService.StartAsync(CancellationToken cancellationToken) in C:\Users\DELL\source\repos\Domashna1\EShop.Services\ConsumeScopedHostedService.cs:line 24
+   at Microsoft.Extensions.Hosting.Internal.Host.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(IHost host)
+   at EShop.Web.Program.Main(String[] args) in C:\Users\DELL\source\repos\Domashna1\EShop.Web\Program.cs:line 23
+2022-07-01 17:54:46.1784|0|DEBUG|EShop.Web.Program|init main 
+2022-07-01 17:54:49.8060|0|ERROR|EShop.Web.Program|Stopped program because of exception MailKit.Security.AuthenticationException: 535: 5.7.8 Username and Password not accepted. Learn more at
+5.7.8  https://support.google.com/mail/?p=BadCredentials t12-20020a50d70c000000b0043590660f16sm15463802edi.35 - gsmtp
+ ---> MailKit.Net.Smtp.SmtpCommandException: 5.7.8 Username and Password not accepted. Learn more at
+5.7.8  https://support.google.com/mail/?p=BadCredentials t12-20020a50d70c000000b0043590660f16sm15463802edi.35 - gsmtp
+   --- End of inner exception stack trace ---
+   at MailKit.Net.Smtp.SmtpClient.AuthenticateAsync(Encoding encoding, ICredentials credentials, Boolean doAsync, CancellationToken cancellationToken)
+   at EShop.Services.Implementation.EmailService.SendEmailAsync(List`1 allMails) in C:\Users\DELL\source\repos\Domashna1\EShop.Services\Implementation\EmailService.cs:line 53
+   at EShop.Services.Implementation.BackgroundEmailSender.DoWork() in C:\Users\DELL\source\repos\Domashna1\EShop.Services\Implementation\BackgroundEmailSender.cs:line 24
+   at EShop.Services.ConsumeScopedHostedService.DoWork() in C:\Users\DELL\source\repos\Domashna1\EShop.Services\ConsumeScopedHostedService.cs:line 32
+   at EShop.Services.ConsumeScopedHostedService.StartAsync(CancellationToken cancellationToken) in C:\Users\DELL\source\repos\Domashna1\EShop.Services\ConsumeScopedHostedService.cs:line 24
+   at Microsoft.Extensions.Hosting.Internal.Host.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(IHost host)
+   at EShop.Web.Program.Main(String[] args) in C:\Users\DELL\source\repos\Domashna1\EShop.Web\Program.cs:line 23
+2022-07-01 18:28:08.7711|0|DEBUG|EShop.Web.Program|init main 
+2022-07-01 18:28:12.6180|0|ERROR|EShop.Web.Program|Stopped program because of exception MailKit.Security.AuthenticationException: 535: 5.7.8 Username and Password not accepted. Learn more at
+5.7.8  https://support.google.com/mail/?p=BadCredentials co6-20020a0564020c0600b0042dd022787esm15350417edb.6 - gsmtp
+ ---> MailKit.Net.Smtp.SmtpCommandException: 5.7.8 Username and Password not accepted. Learn more at
+5.7.8  https://support.google.com/mail/?p=BadCredentials co6-20020a0564020c0600b0042dd022787esm15350417edb.6 - gsmtp
+   --- End of inner exception stack trace ---
+   at MailKit.Net.Smtp.SmtpClient.AuthenticateAsync(Encoding encoding, ICredentials credentials, Boolean doAsync, CancellationToken cancellationToken)
+   at EShop.Services.Implementation.EmailService.SendEmailAsync(List`1 allMails) in C:\Users\DELL\source\repos\Domashna1\EShop.Services\Implementation\EmailService.cs:line 53
+   at EShop.Services.Implementation.BackgroundEmailSender.DoWork() in C:\Users\DELL\source\repos\Domashna1\EShop.Services\Implementation\BackgroundEmailSender.cs:line 24
+   at EShop.Services.ConsumeScopedHostedService.DoWork() in C:\Users\DELL\source\repos\Domashna1\EShop.Services\ConsumeScopedHostedService.cs:line 32
+   at EShop.Services.ConsumeScopedHostedService.StartAsync(CancellationToken cancellationToken) in C:\Users\DELL\source\repos\Domashna1\EShop.Services\ConsumeScopedHostedService.cs:line 24
+   at Microsoft.Extensions.Hosting.Internal.Host.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(IHost host)
+   at EShop.Web.Program.Main(String[] args) in C:\Users\DELL\source\repos\Domashna1\EShop.Web\Program.cs:line 23
+2022-07-01 18:29:39.8388|0|DEBUG|EShop.Web.Program|init main 
+2022-07-01 18:29:41.8409|0|ERROR|EShop.Web.Program|Stopped program because of exception System.ArgumentNullException: Value cannot be null. (Parameter 'address')
+   at MimeKit.MailboxAddress..ctor(Encoding encoding, String name, String address)
+   at MimeKit.MailboxAddress..ctor(String name, String address)
+   at EShop.Services.Implementation.EmailService.SendEmailAsync(List`1 allMails) in C:\Users\DELL\source\repos\Domashna1\EShop.Services\Implementation\EmailService.cs:line 29
+   at EShop.Services.Implementation.BackgroundEmailSender.DoWork() in C:\Users\DELL\source\repos\Domashna1\EShop.Services\Implementation\BackgroundEmailSender.cs:line 24
+   at EShop.Services.ConsumeScopedHostedService.DoWork() in C:\Users\DELL\source\repos\Domashna1\EShop.Services\ConsumeScopedHostedService.cs:line 32
+   at EShop.Services.ConsumeScopedHostedService.StartAsync(CancellationToken cancellationToken) in C:\Users\DELL\source\repos\Domashna1\EShop.Services\ConsumeScopedHostedService.cs:line 24
+   at Microsoft.Extensions.Hosting.Internal.Host.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(IHost host)
+   at EShop.Web.Program.Main(String[] args) in C:\Users\DELL\source\repos\Domashna1\EShop.Web\Program.cs:line 23
+2022-07-01 18:33:39.7715|0|DEBUG|EShop.Web.Program|init main 
+2022-07-01 18:33:43.3518|0|ERROR|EShop.Web.Program|Stopped program because of exception MailKit.Security.AuthenticationException: 534: 5.7.9 Application-specific password required. Learn more at
+5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor x10-20020a170906298a00b00705cd37fd5asm10694084eje.72 - gsmtp
+ ---> MailKit.Net.Smtp.SmtpCommandException: 5.7.9 Application-specific password required. Learn more at
+5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor x10-20020a170906298a00b00705cd37fd5asm10694084eje.72 - gsmtp
+   --- End of inner exception stack trace ---
+   at MailKit.Net.Smtp.SmtpClient.AuthenticateAsync(Encoding encoding, ICredentials credentials, Boolean doAsync, CancellationToken cancellationToken)
+   at EShop.Services.Implementation.EmailService.SendEmailAsync(List`1 allMails) in C:\Users\DELL\source\repos\Domashna1\EShop.Services\Implementation\EmailService.cs:line 53
+   at EShop.Services.Implementation.BackgroundEmailSender.DoWork() in C:\Users\DELL\source\repos\Domashna1\EShop.Services\Implementation\BackgroundEmailSender.cs:line 24
+   at EShop.Services.ConsumeScopedHostedService.DoWork() in C:\Users\DELL\source\repos\Domashna1\EShop.Services\ConsumeScopedHostedService.cs:line 32
+   at EShop.Services.ConsumeScopedHostedService.StartAsync(CancellationToken cancellationToken) in C:\Users\DELL\source\repos\Domashna1\EShop.Services\ConsumeScopedHostedService.cs:line 24
+   at Microsoft.Extensions.Hosting.Internal.Host.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(IHost host)
+   at EShop.Web.Program.Main(String[] args) in C:\Users\DELL\source\repos\Domashna1\EShop.Web\Program.cs:line 23
+2022-07-01 18:43:02.7497|0|DEBUG|EShop.Web.Program|init main 
+2022-07-01 18:43:06.5038|0|ERROR|EShop.Web.Program|Stopped program because of exception MailKit.Security.AuthenticationException: 534: 5.7.9 Application-specific password required. Learn more at
+5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor jz27-20020a17090775fb00b007246492658asm10538415ejc.117 - gsmtp
+ ---> MailKit.Net.Smtp.SmtpCommandException: 5.7.9 Application-specific password required. Learn more at
+5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor jz27-20020a17090775fb00b007246492658asm10538415ejc.117 - gsmtp
+   --- End of inner exception stack trace ---
+   at MailKit.Net.Smtp.SmtpClient.AuthenticateAsync(Encoding encoding, ICredentials credentials, Boolean doAsync, CancellationToken cancellationToken)
+   at EShop.Services.Implementation.EmailService.SendEmailAsync(List`1 allMails) in C:\Users\DELL\source\repos\Domashna1\EShop.Services\Implementation\EmailService.cs:line 53
+   at EShop.Services.Implementation.BackgroundEmailSender.DoWork() in C:\Users\DELL\source\repos\Domashna1\EShop.Services\Implementation\BackgroundEmailSender.cs:line 24
+   at EShop.Services.ConsumeScopedHostedService.DoWork() in C:\Users\DELL\source\repos\Domashna1\EShop.Services\ConsumeScopedHostedService.cs:line 32
+   at EShop.Services.ConsumeScopedHostedService.StartAsync(CancellationToken cancellationToken) in C:\Users\DELL\source\repos\Domashna1\EShop.Services\ConsumeScopedHostedService.cs:line 24
+   at Microsoft.Extensions.Hosting.Internal.Host.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(IHost host)
+   at EShop.Web.Program.Main(String[] args) in C:\Users\DELL\source\repos\Domashna1\EShop.Web\Program.cs:line 23
+2022-07-01 18:47:17.9303|0|DEBUG|EShop.Web.Program|init main 
+2022-07-01 18:47:30.9291|0|ERROR|EShop.Web.Program|Stopped program because of exception MailKit.Net.Smtp.SmtpProtocolException: The SMTP server has unexpectedly disconnected.
+   at MailKit.Net.Smtp.SmtpStream.ReadAheadAsync(Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.Smtp.SmtpStream.ReadResponseAsync(Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.Smtp.SmtpClient.ConnectAsync(String host, Int32 port, SecureSocketOptions options, Boolean doAsync, CancellationToken cancellationToken)
+   at EShop.Services.Implementation.EmailService.SendEmailAsync(List`1 allMails) in C:\Users\DELL\source\repos\Domashna1\EShop.Services\Implementation\EmailService.cs:line 49
+   at EShop.Services.Implementation.BackgroundEmailSender.DoWork() in C:\Users\DELL\source\repos\Domashna1\EShop.Services\Implementation\BackgroundEmailSender.cs:line 24
+   at EShop.Services.ConsumeScopedHostedService.DoWork() in C:\Users\DELL\source\repos\Domashna1\EShop.Services\ConsumeScopedHostedService.cs:line 32
+   at EShop.Services.ConsumeScopedHostedService.StartAsync(CancellationToken cancellationToken) in C:\Users\DELL\source\repos\Domashna1\EShop.Services\ConsumeScopedHostedService.cs:line 24
+   at Microsoft.Extensions.Hosting.Internal.Host.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(IHost host)
+   at EShop.Web.Program.Main(String[] args) in C:\Users\DELL\source\repos\Domashna1\EShop.Web\Program.cs:line 23
+2022-07-01 18:51:44.3471|0|DEBUG|EShop.Web.Program|init main 
+2022-07-01 18:51:51.7910|0|ERROR|EShop.Web.Program|Stopped program because of exception MailKit.Security.AuthenticationException: 535: 5.7.8 Username and Password not accepted. Learn more at
+5.7.8  https://support.google.com/mail/?p=BadCredentials j7-20020a17090643c700b00722e0b1fa8esm10588660ejn.164 - gsmtp
+ ---> MailKit.Net.Smtp.SmtpCommandException: 5.7.8 Username and Password not accepted. Learn more at
+5.7.8  https://support.google.com/mail/?p=BadCredentials j7-20020a17090643c700b00722e0b1fa8esm10588660ejn.164 - gsmtp
+   --- End of inner exception stack trace ---
+   at MailKit.Net.Smtp.SmtpClient.AuthenticateAsync(Encoding encoding, ICredentials credentials, Boolean doAsync, CancellationToken cancellationToken)
+   at EShop.Services.Implementation.EmailService.SendEmailAsync(List`1 allMails) in C:\Users\DELL\source\repos\Domashna1\EShop.Services\Implementation\EmailService.cs:line 53
+   at EShop.Services.Implementation.BackgroundEmailSender.DoWork() in C:\Users\DELL\source\repos\Domashna1\EShop.Services\Implementation\BackgroundEmailSender.cs:line 24
+   at EShop.Services.ConsumeScopedHostedService.DoWork() in C:\Users\DELL\source\repos\Domashna1\EShop.Services\ConsumeScopedHostedService.cs:line 32
+   at EShop.Services.ConsumeScopedHostedService.StartAsync(CancellationToken cancellationToken) in C:\Users\DELL\source\repos\Domashna1\EShop.Services\ConsumeScopedHostedService.cs:line 24
+   at Microsoft.Extensions.Hosting.Internal.Host.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(IHost host)
+   at EShop.Web.Program.Main(String[] args) in C:\Users\DELL\source\repos\Domashna1\EShop.Web\Program.cs:line 23
+2022-07-01 18:54:41.4130|0|DEBUG|EShop.Web.Program|init main 
+2022-07-01 18:54:46.8086|0|ERROR|EShop.Web.Program|Stopped program because of exception MailKit.Security.AuthenticationException: 535: 5.7.8 Username and Password not accepted. Learn more at
+5.7.8  https://support.google.com/mail/?p=BadCredentials w14-20020a056402128e00b004356894a3f8sm15296957edv.89 - gsmtp
+ ---> MailKit.Net.Smtp.SmtpCommandException: 5.7.8 Username and Password not accepted. Learn more at
+5.7.8  https://support.google.com/mail/?p=BadCredentials w14-20020a056402128e00b004356894a3f8sm15296957edv.89 - gsmtp
+   --- End of inner exception stack trace ---
+   at MailKit.Net.Smtp.SmtpClient.AuthenticateAsync(Encoding encoding, ICredentials credentials, Boolean doAsync, CancellationToken cancellationToken)
+   at EShop.Services.Implementation.EmailService.SendEmailAsync(List`1 allMails) in C:\Users\DELL\source\repos\Domashna1\EShop.Services\Implementation\EmailService.cs:line 53
+   at EShop.Services.Implementation.BackgroundEmailSender.DoWork() in C:\Users\DELL\source\repos\Domashna1\EShop.Services\Implementation\BackgroundEmailSender.cs:line 24
+   at EShop.Services.ConsumeScopedHostedService.DoWork() in C:\Users\DELL\source\repos\Domashna1\EShop.Services\ConsumeScopedHostedService.cs:line 32
+   at EShop.Services.ConsumeScopedHostedService.StartAsync(CancellationToken cancellationToken) in C:\Users\DELL\source\repos\Domashna1\EShop.Services\ConsumeScopedHostedService.cs:line 24
+   at Microsoft.Extensions.Hosting.Internal.Host.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(IHost host)
+   at EShop.Web.Program.Main(String[] args) in C:\Users\DELL\source\repos\Domashna1\EShop.Web\Program.cs:line 23
+2022-07-01 19:01:08.4563|0|DEBUG|EShop.Web.Program|init main 
+2022-07-01 19:01:12.0973|0|ERROR|EShop.Web.Program|Stopped program because of exception MailKit.Security.AuthenticationException: 535: 5.7.8 Username and Password not accepted. Learn more at
+5.7.8  https://support.google.com/mail/?p=BadCredentials v10-20020a1709063bca00b006ffa19b7782sm10564842ejf.74 - gsmtp
+ ---> MailKit.Net.Smtp.SmtpCommandException: 5.7.8 Username and Password not accepted. Learn more at
+5.7.8  https://support.google.com/mail/?p=BadCredentials v10-20020a1709063bca00b006ffa19b7782sm10564842ejf.74 - gsmtp
+   --- End of inner exception stack trace ---
+   at MailKit.Net.Smtp.SmtpClient.AuthenticateAsync(Encoding encoding, ICredentials credentials, Boolean doAsync, CancellationToken cancellationToken)
+   at EShop.Services.Implementation.EmailService.SendEmailAsync(List`1 allMails) in C:\Users\DELL\source\repos\Domashna1\EShop.Services\Implementation\EmailService.cs:line 53
+   at EShop.Services.Implementation.BackgroundEmailSender.DoWork() in C:\Users\DELL\source\repos\Domashna1\EShop.Services\Implementation\BackgroundEmailSender.cs:line 24
+   at EShop.Services.ConsumeScopedHostedService.DoWork() in C:\Users\DELL\source\repos\Domashna1\EShop.Services\ConsumeScopedHostedService.cs:line 32
+   at EShop.Services.ConsumeScopedHostedService.StartAsync(CancellationToken cancellationToken) in C:\Users\DELL\source\repos\Domashna1\EShop.Services\ConsumeScopedHostedService.cs:line 24
+   at Microsoft.Extensions.Hosting.Internal.Host.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(IHost host)
+   at EShop.Web.Program.Main(String[] args) in C:\Users\DELL\source\repos\Domashna1\EShop.Web\Program.cs:line 23
+2022-07-01 19:17:54.3428|0|DEBUG|EShop.Web.Program|init main 
+2022-07-01 19:17:55.6092|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-07-01 19:17:55.6092|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-07-01 19:17:55.6198|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\DELL\source\repos\Domashna1\EShop.Web 
+2022-07-01 19:17:58.7173|0|INFO|EShop.Services.Implementation.ProductService|GetAllProducts was callled. 
+2022-07-01 19:18:01.8374|0|INFO|EShop.Services.Implementation.ProductService|Product was successfully added into ShoppingCard. 
+2022-07-01 19:18:01.8374|0|INFO|EShop.Services.Implementation.ProductService|GetAllProducts was callled. 
+2022-07-01 19:18:04.3424|0|INFO|EShop.Services.Implementation.ProductService|Product was successfully added into ShoppingCard. 
+2022-07-01 19:18:04.3498|0|INFO|EShop.Services.Implementation.ProductService|GetAllProducts was callled. 
+2022-07-01 19:18:10.3144|0|INFO|EShop.Services.Implementation.ProductService|GetAllProducts was callled. 
+2022-07-01 19:18:14.0815|0|INFO|EShop.Services.Implementation.ProductService|Product was successfully added into ShoppingCard. 
+2022-07-01 19:18:14.0884|0|INFO|EShop.Services.Implementation.ProductService|GetAllProducts was callled. 
+2022-07-01 19:18:17.5532|0|INFO|EShop.Services.Implementation.ProductService|Product was successfully added into ShoppingCard. 
+2022-07-01 19:18:17.5532|0|INFO|EShop.Services.Implementation.ProductService|GetAllProducts was callled. 
+2022-07-01 20:00:35.9862|0|DEBUG|EShop.Web.Program|init main 
+2022-07-01 20:00:40.4720|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-07-01 20:00:40.4860|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-07-01 20:00:40.5196|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\DELL\source\repos\Domashna1\EShop.Web 
+2022-07-01 20:00:51.6031|0|INFO|EShop.Services.Implementation.ProductService|GetAllProducts was callled. 
+2022-07-01 20:00:54.9403|0|INFO|EShop.Services.Implementation.ProductService|GetAllProducts was callled. 
+2022-07-01 20:00:58.5201|0|INFO|EShop.Services.Implementation.ProductService|Product was successfully added into ShoppingCard. 
+2022-07-01 20:00:58.5201|0|INFO|EShop.Services.Implementation.ProductService|GetAllProducts was callled. 
+2022-07-01 20:01:08.2548|0|INFO|EShop.Services.Implementation.ProductService|GetAllProducts was callled. 
+2022-07-01 20:07:44.5687|0|DEBUG|EShop.Web.Program|init main 
+2022-07-01 20:07:47.0235|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-07-01 20:07:47.0235|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-07-01 20:07:47.0477|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\DELL\source\repos\Domashna1\EShop.Web 
+2022-07-01 20:08:00.2241|0|INFO|EShop.Services.Implementation.ProductService|GetAllProducts was callled. 
+2022-07-01 20:08:03.9801|0|INFO|EShop.Services.Implementation.ProductService|Product was successfully added into ShoppingCard. 
+2022-07-01 20:08:04.0029|0|INFO|EShop.Services.Implementation.ProductService|GetAllProducts was callled. 
+2022-07-01 20:08:08.5459|0|INFO|EShop.Services.Implementation.ProductService|Product was successfully added into ShoppingCard. 
+2022-07-01 20:08:08.5667|0|INFO|EShop.Services.Implementation.ProductService|GetAllProducts was callled. 
+2022-07-01 20:14:50.1762|0|DEBUG|EShop.Web.Program|init main 
+2022-07-01 20:14:51.2717|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-07-01 20:14:51.2717|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-07-01 20:14:51.2717|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\DELL\source\repos\Domashna1\EShop.Web 
+2022-07-01 20:32:10.9242|0|DEBUG|EShop.Web.Program|init main 
+2022-07-01 20:32:11.9221|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-07-01 20:32:11.9221|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-07-01 20:32:11.9309|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\DELL\source\repos\Domashna1\EShop.Web 
+2022-07-01 20:35:45.1522|0|DEBUG|EShop.Web.Program|init main 
+2022-07-01 20:35:46.1242|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-07-01 20:35:46.1242|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-07-01 20:35:46.1309|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\DELL\source\repos\Domashna1\EShop.Web 
+2022-07-01 20:35:54.3153|0|INFO|EShop.Services.Implementation.ProductService|GetAllProducts was callled. 
+2022-07-01 20:35:58.8370|0|INFO|EShop.Services.Implementation.ProductService|Product was successfully added into ShoppingCard. 
+2022-07-01 20:35:58.8370|0|INFO|EShop.Services.Implementation.ProductService|GetAllProducts was callled. 
+2022-07-01 20:42:41.1370|0|DEBUG|EShop.Web.Program|init main 
+2022-07-01 20:42:42.7875|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-07-01 20:42:42.7875|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-07-01 20:42:42.7875|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\DELL\source\repos\Domashna1\EShop.Web 
+2022-07-01 20:42:48.5216|0|INFO|EShop.Services.Implementation.ProductService|GetAllProducts was callled. 
+2022-07-01 20:42:51.3825|0|INFO|EShop.Services.Implementation.ProductService|Product was successfully added into ShoppingCard. 
+2022-07-01 20:42:51.3825|0|INFO|EShop.Services.Implementation.ProductService|GetAllProducts was callled. 

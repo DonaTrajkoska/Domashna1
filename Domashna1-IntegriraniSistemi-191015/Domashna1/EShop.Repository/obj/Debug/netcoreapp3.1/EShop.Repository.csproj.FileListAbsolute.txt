@@ -1,0 +1,39 @@
+C:\Users\DELL\source\repos\Domashna1\EShop.Repository\bin\Debug\netcoreapp3.1\EShop.Repository.deps.json
+C:\Users\DELL\source\repos\Domashna1\EShop.Repository\bin\Debug\netcoreapp3.1\EShop.Repository.dll
+C:\Users\DELL\source\repos\Domashna1\EShop.Repository\bin\Debug\netcoreapp3.1\EShop.Repository.pdb
+C:\Users\DELL\source\repos\Domashna1\EShop.Repository\bin\Debug\netcoreapp3.1\EShop.Domain.dll
+C:\Users\DELL\source\repos\Domashna1\EShop.Repository\bin\Debug\netcoreapp3.1\EShop.Domain.pdb
+C:\Users\DELL\source\repos\Domashna1\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Domashna1\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Domashna1\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Domashna1\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Domashna1\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Domashna1\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.csproj.CopyComplete
+C:\Users\DELL\source\repos\Domashna1\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.dll
+C:\Users\DELL\source\repos\Domashna1\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.pdb
+C:\Users\DELL\Downloads\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\Domashna1\EShop.Repository\bin\Debug\netcoreapp3.1\EShop.Repository.deps.json
+C:\Users\DELL\Downloads\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\Domashna1\EShop.Repository\bin\Debug\netcoreapp3.1\EShop.Repository.dll
+C:\Users\DELL\Downloads\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\Domashna1\EShop.Repository\bin\Debug\netcoreapp3.1\EShop.Repository.pdb
+C:\Users\DELL\Downloads\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\Domashna1\EShop.Repository\bin\Debug\netcoreapp3.1\EShop.Domain.dll
+C:\Users\DELL\Downloads\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\Domashna1\EShop.Repository\bin\Debug\netcoreapp3.1\EShop.Domain.pdb
+C:\Users\DELL\Downloads\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\Domashna1\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\Domashna1\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Downloads\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\Domashna1\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\Domashna1\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.AssemblyInfo.cs
+C:\Users\DELL\Downloads\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\Domashna1\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\Domashna1\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.csproj.CopyComplete
+C:\Users\DELL\Downloads\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\Domashna1\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.dll
+C:\Users\DELL\Downloads\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\Domashna1\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.pdb
+C:\Users\DELL\OneDrive\Desktop\StaviNAGit\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\Domashna1\EShop.Repository\bin\Debug\netcoreapp3.1\EShop.Repository.deps.json
+C:\Users\DELL\OneDrive\Desktop\StaviNAGit\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\Domashna1\EShop.Repository\bin\Debug\netcoreapp3.1\EShop.Repository.dll
+C:\Users\DELL\OneDrive\Desktop\StaviNAGit\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\Domashna1\EShop.Repository\bin\Debug\netcoreapp3.1\EShop.Repository.pdb
+C:\Users\DELL\OneDrive\Desktop\StaviNAGit\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\Domashna1\EShop.Repository\bin\Debug\netcoreapp3.1\EShop.Domain.dll
+C:\Users\DELL\OneDrive\Desktop\StaviNAGit\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\Domashna1\EShop.Repository\bin\Debug\netcoreapp3.1\EShop.Domain.pdb
+C:\Users\DELL\OneDrive\Desktop\StaviNAGit\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\Domashna1\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\StaviNAGit\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\Domashna1\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Desktop\StaviNAGit\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\Domashna1\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Desktop\StaviNAGit\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\Domashna1\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Desktop\StaviNAGit\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\Domashna1\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\StaviNAGit\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\Domashna1\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.csproj.CopyComplete
+C:\Users\DELL\OneDrive\Desktop\StaviNAGit\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\Domashna1\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.dll
+C:\Users\DELL\OneDrive\Desktop\StaviNAGit\Domashna1-IntegriraniSistemi-191015 (1)\Domashna1-IntegriraniSistemi-191015\Domashna1\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.pdb
